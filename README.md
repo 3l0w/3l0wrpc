@@ -1,27 +1,27 @@
 # 3l0w-rpc
-
-> Update your discord status with the newly added rich presence.
+Show your active VSCode session to your Discord Rich Presence
 
 ## Features
-* Shows what you are editing in VSCode
-* change as you wish your RPC
+* Show what you are editing in VSCode
+* Edit your RPC as you wish
 
 ## Usage
-To Change your Presence use F1 and type `setrpc`.\
-Then select what you want to change.
+To edit your presence use F1 and type `setrpc`, then select what you want to change.
 
 ## Installation
-Put all the file in your .vscode/extention Folder\
-Window: ```%USERPROFILE%\.vscode\extensions```\
-Linux : ```~/.vscode/extensions```\
-MacOS : ```~/.vscode/extensions```
+Put all the files in your `.vscode/extensions` directory
+
+- Windows: `%USERPROFILE%\.vscode\extensions`
+- Linux: `~/.vscode/extensions`
+- MacOS: `~/.vscode/extensions`
+
 ## Contributing
-Fork the repository!
-Clone your fork: git clone https://github.com/your-username/3l0wrpc.git
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -am 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request :D
+1. Fork this repository
+2. Clone your fork: `git clone <REPO_URL_OR_SSH>`
+3. Create your feature branch: `git checkout -b my-new-feature`
+4. Commit your changes: `git commit -am 'Add some feature'`
+5. Push to the branch: `git push origin my-new-feature`
+6. Submit a pull request
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
